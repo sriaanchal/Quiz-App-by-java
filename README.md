@@ -1,5 +1,5 @@
 # Quiz-App-by-java
-ChatGPT
+
 
 📌 Objective
 To create a console-based Java application that conducts a multiple-choice quiz. The app displays a series of questions, takes user input for answers, checks correctness, and displays the final score.
